@@ -1,0 +1,1 @@
+# Script de limpeza para camada Prata

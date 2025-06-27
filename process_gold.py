@@ -1,0 +1,1 @@
+# Script de agregação para camada Ouro
