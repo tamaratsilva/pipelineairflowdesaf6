@@ -49,9 +49,3 @@ O pipeline é organizado em três camadas principais:
 
 Todo o pipeline foi baseado no uso da biblioteca `pandas` para transformação dos dados. Embora o projeto esteja pronto para ser executado com Airflow e Docker, todos os dados processados foram gerados e entregues em arquivos `.csv` para facilitar a visualização e submissão.
 
----
-
-## 📎 Desafio proposto por:
-
-**DncInsight Solutions**  
-Objetivo: Automatizar o tratamento de dados inconsistentes e transformá-los em insights confiáveis.
